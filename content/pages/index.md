@@ -159,10 +159,13 @@ sections:
               borderRadius: x-large
       - title: Assistenza Completa
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Offriamo un servizio a 360°, seguendo il cliente in tutte le fasi:
+          dalla consulenza iniziale alla progettazione, fino alla realizzazione
+          finale e alla gestione burocratica. Il nostro obiettivo è rendere ogni
+          processo semplice e senza stress per il cliente.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
