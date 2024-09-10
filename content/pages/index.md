@@ -127,10 +127,14 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Utilizziamo strumenti e software di ultima generazione per garantire
+          precisione e velocità in ogni fase del progetto, dai rilievi
+          topografici alla gestione delle pratiche catastali. La nostra
+          tecnologia avanzata ci permette di essere sempre al passo con le
+          novità del settore.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
