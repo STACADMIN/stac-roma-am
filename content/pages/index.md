@@ -27,7 +27,7 @@ sections:
           - pr-16
         margin:
           - mt-0
-        justifyContent: center
+        justifyContent: flex-end
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
