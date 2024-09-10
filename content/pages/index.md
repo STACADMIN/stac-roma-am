@@ -32,7 +32,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Aziendale Professionale Banner LinkedIn.gif
+      url: /images/Progetto senza titolo (1).gif
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
