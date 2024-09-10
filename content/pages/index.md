@@ -104,7 +104,7 @@ sections:
     styles:
       self:
         padding:
-          - pt-20
+          - pt-10
           - pl-4
           - pb-11
           - pr-4
