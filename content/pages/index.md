@@ -230,6 +230,8 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-4
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
