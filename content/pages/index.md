@@ -187,10 +187,13 @@ sections:
         type: FeaturedItem
       - title: Rispetto delle Normative
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Ci teniamo costantemente aggiornati sulle normative edilizie,
+          catastali e ambientali. Grazie a questa attenzione, garantiamo che
+          ogni progetto sia conforme alle leggi vigenti, evitando complicazioni
+          future e assicurando la massima sicurezza.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
