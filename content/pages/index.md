@@ -26,7 +26,7 @@ sections:
           - pb-24
           - pr-16
         margin:
-          - mt-4
+          - mt-0
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
