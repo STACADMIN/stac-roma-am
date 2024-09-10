@@ -44,7 +44,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: ''
     text: >+
       un team di professionisti qualificati specializzato in consulenze tecniche
       e progettazione per privati, imprese ed enti pubblici. Con oltre 20 anni
