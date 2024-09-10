@@ -125,7 +125,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: INNOVAZIONE TECNOLOGICA
+        title: Innovazione Tecnologica
         subtitle: Numbers Done
         text: >+
 
