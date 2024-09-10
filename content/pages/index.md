@@ -21,12 +21,13 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-20
           - pl-16
-          - pb-24
+          - pb-20
           - pr-16
         margin:
           - mt-0
+        justifyContent: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
@@ -34,25 +35,59 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Progetto senza titolo (1).gif
+      url: /images/Progetto senza titolo (2).gif
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: ''
+    text: >+
+      un team di professionisti qualificati specializzato in consulenze tecniche
+      e progettazione per privati, imprese ed enti pubblici. Con oltre 20 anni
+      di esperienza nel settore, offriamo una vasta gamma di servizi legati
+      all'edilizia, al catasto e alla gestione immobiliare.
+
+
+      **I nostri servizi includono:**
+
+
+      *   **Progettazione e Direzione Lavori:** Dalla progettazione
+      architettonica alla gestione completa del cantiere, garantiamo soluzioni
+      su misura, sicure e conformi alle normative vigenti.
+
+
+      *   **Pratiche Catastali e Topografiche:** Gestione delle pratiche
+      catastali, aggiornamenti cartografici, frazionamenti e rilievi topografici
+      di precisione.
+
+
+      *   **Certificazioni e Consulenze:** Certificazioni energetiche, perizie
+      tecniche e valutazioni immobiliari, consulenze per ristrutturazioni e
+      riqualificazioni energetiche.
+
+
+      *   **Gestione Immobiliare:** Assistenza tecnica per la compravendita di
+      immobili, pratiche di successione, frazionamenti e accatastamenti.
+
+
+      Il nostro obiettivo è fornire un servizio professionale, puntuale e
+      trasparente, seguendo il cliente in ogni fase del progetto, dal concept
+      iniziale alla realizzazione finale. Affidati a noi per trovare soluzioni
+      innovative e di alta qualità, che valorizzino il tuo patrimonio
+      immobiliare.
+
+
+      Contattaci per una consulenza o per saperne di più sui nostri servizi.
+
+
+
     actions:
       - type: Button
-        label: See open positions
+        label: Contattaci
         url: /
         icon: arrowRight
         iconPosition: right
@@ -60,7 +95,6 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
       altText: altText of the image
       backgroundSize: cover
       backgroundPosition: center
@@ -69,9 +103,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-40
+          - pt-10
           - pl-4
-          - pb-40
+          - pb-11
           - pr-4
         alignItems: center
         flexDirection: row-reverse
@@ -82,21 +116,25 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: PUNTI CHIAVE
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Innovazione Tecnologica
+        subtitle: ''
+        text: >+
+
+          Utilizziamo strumenti e software di ultima generazione per garantire
+          precisione e velocità in ogni fase del progetto, dai rilievi
+          topografici alla gestione delle pratiche catastali. La nostra
+          tecnologia avanzata ci permette di essere sempre al passo con le
+          novità del settore.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -119,12 +157,15 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Assistenza Completa
+        subtitle: ''
+        text: >+
+
+          Offriamo un servizio a 360°, seguendo il cliente in tutte le fasi:
+          dalla consulenza iniziale alla progettazione, fino alla realizzazione
+          finale e alla gestione burocratica. Il nostro obiettivo è rendere ogni
+          processo semplice e senza stress per il cliente.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -144,12 +185,15 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Rispetto delle Normative
+        subtitle: ''
+        text: >+
+
+          Ci teniamo costantemente aggiornati sulle normative edilizie,
+          catastali e ambientali. Grazie a questa attenzione, garantiamo che
+          ogni progetto sia conforme alle leggi vigenti, evitando complicazioni
+          future e assicurando la massima sicurezza.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -167,18 +211,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
-      label: This is a badge
+      label: COSA OFFIRAMO
       color: text-primary
       styles:
         self:
@@ -195,6 +230,8 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-4
       subtitle:
         textAlign: center
   - subtitle: Award winning enterprises trust us
