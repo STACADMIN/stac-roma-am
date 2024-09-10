@@ -125,7 +125,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: INNOVAZIONE TECNOLOGICA
         subtitle: Numbers Done
         text: >+
 
