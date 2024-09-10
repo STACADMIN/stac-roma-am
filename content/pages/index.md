@@ -34,7 +34,11 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Progetto senza titolo (1).gif
+      url: >-
+        /images/un team di professionisti qualificati specializzato in
+        consulenze tecniche e progettazione per privati, imprese ed enti
+        pubblici. Con oltre 20 anni di esperienza nel settore, offriamo una
+        vasta ga.gif
   - type: GenericSection
     title:
       type: TitleBlock
