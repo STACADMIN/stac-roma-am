@@ -116,7 +116,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: PUNTI CHIAVE
       color: text-dark
       styles:
         self:
