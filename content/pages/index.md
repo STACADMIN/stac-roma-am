@@ -126,7 +126,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Innovazione Tecnologica
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
 
           Utilizziamo strumenti e software di ultima generazione per garantire
