@@ -158,7 +158,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Assistenza Completa
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
 
           Offriamo un servizio a 360°, seguendo il cliente in tutte le fasi:
