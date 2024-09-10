@@ -3,7 +3,7 @@ title: Careers
 slug: careers
 sections:
   - title:
-      text: Meet the team
+      text: IL TEAM
       color: text-dark
       styles:
         self:
