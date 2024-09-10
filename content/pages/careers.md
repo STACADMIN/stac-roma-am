@@ -18,6 +18,7 @@ sections:
       - content/data/person6.json
       - content/data/careers.json
       - content/data/valerio-kamel.json
+      - content/data/ivana-campitelli.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
