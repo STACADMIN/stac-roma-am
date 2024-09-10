@@ -186,7 +186,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Rispetto delle Normative
-        subtitle: Faster
+        subtitle: ''
         text: >+
 
           Ci teniamo costantemente aggiornati sulle normative edilizie,
