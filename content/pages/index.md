@@ -87,7 +87,7 @@ sections:
 
     actions:
       - type: Button
-        label: See open positions
+        label: Contattaci
         url: /
         icon: arrowRight
         iconPosition: right
