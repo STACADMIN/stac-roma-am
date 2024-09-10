@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: ''
+    subtitle: s
     text: ''
     actions: []
     media:
