@@ -35,7 +35,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Progetto senza titolo (2).gif
+      url: /images/STAC (1).gif
   - type: GenericSection
     title:
       type: TitleBlock
