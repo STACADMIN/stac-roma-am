@@ -12,15 +12,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
+            "label": "Contatti",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -29,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Team",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -38,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Servizi",
             "altText": "Dropdown",
             "links": [
                 {
