@@ -27,6 +27,7 @@ sections:
           - pr-16
         margin:
           - mt-0
+        justifyContent: center
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
