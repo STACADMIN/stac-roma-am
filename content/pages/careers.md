@@ -17,6 +17,7 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/careers.json
+      - content/data/valerio-kamel.json
     variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
