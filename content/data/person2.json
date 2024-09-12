@@ -1,9 +1,9 @@
 {
     "type": "Person",
     "name": "Luciano Aversa",
-    "role": "Co-founder & CEO",
+    "role": "Senior Manager, Asset\nManagement, \n\nDiligence &\nRegulariization",
     "image": {
-        "url": "/images/2.png",
+        "url": "/images/LUCIANO.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

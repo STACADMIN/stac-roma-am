@@ -1,10 +1,10 @@
 {
     "type": "Person",
     "name": "Ivana Campitelli",
-    "role": "Job title",
+    "role": "Office Manager, Portuense, Rome.",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/IVANA.png",
         "altText": "First Last",
         "styles": {
             "self": {

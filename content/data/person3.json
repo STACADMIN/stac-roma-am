@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Alessandro Iafolla",
+    "role": "Manager, Asset Management, Diligence\n& Regularization",
     "image": {
         "url": "/images/ALESSANDRO.png",
         "altText": "Asher Schmitt",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }
