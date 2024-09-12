@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: large
       margin:
-        - mt-36
+        - mt-0
   type: ImageBlock
 bottomSections:
   - title: Divider
