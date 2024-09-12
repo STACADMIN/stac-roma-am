@@ -32,7 +32,7 @@ bottomSections:
   - items:
       - title: Contattaci
         tagline: ''
-        subtitle: +39 06
+        subtitle: +39 06 400
         image:
           url: /images/Progetto senza titolo (3).gif
           altText: Company logo
