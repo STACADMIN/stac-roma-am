@@ -12,7 +12,7 @@ featuredImage:
   altText: Case study 1
   styles:
     self:
-      borderRadius: large
+      borderRadius: small
       margin:
         - mt-0
       padding:
