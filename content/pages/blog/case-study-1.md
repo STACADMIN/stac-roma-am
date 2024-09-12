@@ -1,5 +1,5 @@
 ---
-title: La nostra Tecnologia
+title: BLK LASER SCANNER
 slug: case-study-1
 date: ''
 excerpt: >-
