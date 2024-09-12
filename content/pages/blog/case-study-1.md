@@ -1,5 +1,5 @@
 ---
-title: BLK LASER SCANNER
+title: Tecnologia
 slug: case-study-1
 date: ''
 excerpt: >-
