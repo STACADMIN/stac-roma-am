@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/BLK360-overviewpage.png
+  url: /images/Tool.png
   altText: Case study 1
   styles:
     self:
