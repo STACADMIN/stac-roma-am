@@ -121,7 +121,7 @@ sections:
     actions:
       - type: Button
         label: See open positions
-        url: /Modulo
+        url: blog/this-is-a-blog-post-with-related-posts/
         icon: arrowRight
         iconPosition: right
         style: primary
