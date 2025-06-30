@@ -24,15 +24,6 @@
             "elementId": ""
         },
         {
-            "label": "Contatti",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Team",
             "altText": "Careers page",
             "url": "/careers",
