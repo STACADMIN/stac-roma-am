@@ -2,12 +2,7 @@
 title: Contattaci
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
-excerpt: >-
-  Hai bisogno di informazioni, vuoi fissare un appuntamento o desideri ricevere
-  assistenza?
-
-  Siamo a tua disposizione. Puoi contattarci tramite i seguenti canali oppure
-  compilare il modulo sottostante. Ti risponderemo il prima possibile.
+excerpt: "\U0001F4CD Dove siamo\nSTAC SRL\n[Indirizzo completo]\n[CAP, Città (Provincia)]\n\U0001F4DE Telefono\n[Numero di telefono]\n(Dal lunedì al venerdì, dalle 9:00 alle 18:00)\n\U0001F4E7 Email\n[Email generica o specifica, es. info@nomeufficio.it]\n\U0001F552 Orari di apertura\nLunedì - Venerdì: 9:00 – 13:00 / 14:00 – 18:00\nSabato e domenica: chiuso\n\U0001F4E9 Modulo di contatto\nCompila il modulo con i tuoi dati e il motivo della richiesta. Ti risponderemo entro 24 ore lavorative.\n[Modulo di contatto - da inserire graficamente nel sito]"
 featuredImage:
   url: /images/box-white1.png
   altText: Thumbnail
