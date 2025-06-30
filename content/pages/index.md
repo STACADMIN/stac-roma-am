@@ -118,13 +118,7 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: "#### \U0001F4CD Dove siamo\n\n**STAC S.R.L.**\n\nVia Portuense, 953\n\n 00148 Rome - Italy\n\n#### \U0001F4DE Telefono\n\n+39\_06 40070173\n*(Dal lunedì al venerdì, dalle 9:30 alle 18:30)*\n\n#### \U0001F4E7 Email\n\n[info@stac-am.it]()\n\n#### \U0001F552 Orari di apertura\n\nLunedì - Venerdì: 9:30 – 18:30\n\nSabato e domenica: chiuso\n\n#### \U0001F4E9 Modulo di contatto\n\nCompila il modulo con i tuoi dati e il motivo della richiesta. Ti risponderemo entro 24 ore lavorative.\n"
-    actions:
-      - type: Button
-        label: See open positions
-        url: blog/this-is-a-blog-post-with-related-posts/
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
