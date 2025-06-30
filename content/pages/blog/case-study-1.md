@@ -87,6 +87,7 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+isDraft: false
 ---
 ### **BLK Laser Scanner: Precisione e Innovazione per i tuoi Progetti**
 
