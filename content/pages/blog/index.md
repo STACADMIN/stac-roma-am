@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Contattaci
+      text: Contatti
       color: text-dark
       type: TitleBlock
     subtitle: ''
