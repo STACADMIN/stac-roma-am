@@ -108,6 +108,10 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: Contattaci
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: PUNTI CHIAVE
