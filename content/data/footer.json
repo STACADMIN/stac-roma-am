@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "STUDIO TECNICO AVERSA CAMPAGNA\n",
-    "socialLinks": [
-        {
-            "altText": "info@stac-am.it",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
