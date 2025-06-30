@@ -121,7 +121,7 @@ sections:
     actions:
       - type: Button
         label: See open positions
-        url: /
+        url: /Modulo
         icon: arrowRight
         iconPosition: right
         style: primary
