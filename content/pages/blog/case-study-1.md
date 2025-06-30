@@ -1,7 +1,7 @@
 ---
 title: Tecnologia
 slug: case-study-1
-date: ''
+date: '2025-06-30'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
@@ -87,6 +87,7 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+isDraft: true
 ---
 ### **BLK Laser Scanner: Precisione e Innovazione per i tuoi Progetti**
 
