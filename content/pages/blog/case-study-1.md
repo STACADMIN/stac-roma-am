@@ -1,7 +1,7 @@
 ---
 title: Tecnologia
 slug: case-study-1
-date: '0044-12-04'
+date: '2025-06-30'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
