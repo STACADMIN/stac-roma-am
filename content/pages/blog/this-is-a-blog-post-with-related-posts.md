@@ -2,7 +2,6 @@
 type: PostLayout
 title: MODULO
 date: '2025-06-30'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
